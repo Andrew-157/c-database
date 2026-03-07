@@ -1,1 +1,5 @@
 *.out
+
+# stuff coming from rspec
+.bundle/
+vendor/bundle/
